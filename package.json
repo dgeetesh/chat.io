@@ -1,6 +1,6 @@
 {
-  "name": "chat.io",
-  "version": "1.0.0",
+  "name": "socket-chat.io",
+  "version": "1.0.2",
   "description": "This package helps in creating a chat app",
   "main": "index.js",
   "scripts": {

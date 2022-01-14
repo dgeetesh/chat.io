@@ -1,6 +1,6 @@
 # chat.io
 ```bash
-const chatIO = require('chat.io');
+const chatIO = require('socket-chat.io');
 ```bash
 # Steps to setup chat socket on server (nodejs)
 ```bash
@@ -26,3 +26,7 @@ app.get('/', async function(req, res) {
 })
 
 ```bash
+
+
+This module uses two other main modules that are referred to, at the end of this page. \
+Besides, [**socket.io**](https://socket.io/) tools are utilized for having a better performance.
